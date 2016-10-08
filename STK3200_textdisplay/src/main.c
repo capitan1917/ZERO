@@ -79,7 +79,7 @@ int main(void)
   /* Initialize the display module. */
   DISPLAY_Init();
 
-  printf("The Room Teperature is equal to:  ");
+  printf("The Room Teperature:  ");
 
 
   /* Retarget stdio to a text display. */
